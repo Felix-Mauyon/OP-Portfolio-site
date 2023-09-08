@@ -1,0 +1,102 @@
+
+body{
+    font-family: 'Lexend', 'san-serif';
+    font-size: 16px;
+}
+
+.logo{
+    color: #ce047e;
+    font-size: 2em;
+    font-weight: bold;
+}
+.nav-link{
+    color:#f1faee;
+}
+.head{
+    background-color:#061831;
+    opacity: 0.9;
+}
+
+#bold{
+    font-size: 3em;
+    font-weight: bold;
+    width: 60%;
+}
+.row{
+    width: 75%;
+    height: 20%;
+}
+#border{
+    color:#f1faee;
+}
+.fa-solid{
+    font-size: 1.5em;
+
+}
+.backg{
+    background-image: url(assets/image\ \(3\).jpg);
+    background-position: center;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    color: #f1faee;
+    background-clip: content-box;
+}
+.col-1{
+    text-align: center;
+    padding-top: 0.7em;
+    font-size: 1.7em;
+    color:#ce047e;
+
+}
+
+
+.nav-color{
+    color: #1d3557;
+}
+
+.bord{
+    color: #f1faee;
+    border-color: #457b9d;
+}
+.home{
+    font-family: 'Lexend', 'san-serif';
+    height: 100vh;
+
+}
+.cont1{
+    gap: 2em;
+    width: 90%;
+    margin: 0 auto;
+}
+.contact{
+    width: 80%;
+    height: 100vh;
+}
+#cont{
+    margin-left: 0;
+}
+.mid{
+    height: 100vh
+
+}
+.box{
+    height: 50px;
+    border: 1px solid brown;
+    border-radius: 4px;
+}
+.lower{
+    width: 85%;
+}
+
+.card-title{
+    font-size: 1.5em;
+    color:#1d3557;
+}
+.card-text{
+    font-size: 1em;
+    color:#1d3557;
+}
+.gap{
+    gap: 1em;
+}
